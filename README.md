@@ -16,11 +16,8 @@ I'm Santiago Flórez — a **final-year Industrial Engineering student** based i
 - Strong mathematical foundation: calculus, linear algebra, probability, and operations research 📐
 - Process optimization & workflow design: streamlining operations for maximum efficiency ⚙️
 - Operations research & linear programming: solving optimization problems with quantitative methods 📊
-- Supply chain management & logistics: planning, execution, and optimization of supply networks 🚚
 - Quality control & Six Sigma methodologies: ensuring product/service excellence through statistical tools 🎯
 - Lean manufacturing & continuous improvement: waste reduction and process enhancement 🏭
-- Simulation modeling: building discrete-event simulations to predict system behavior 🎮
-- Project management & coordination: planning, executing, and monitoring engineering projects 📈
 
 ### 📫 How to reach me
 - **LinkedIn**: [www.linkedin.com/in/santiago-flórez-camargo](https://www.linkedin.com/in/santiago-flórez-camargo)  
